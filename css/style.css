@@ -1840,4 +1840,28 @@ form label {
   opacity: 0;
 }
 
+#fh5co-header .display-tc .btn.btn-rsvp,
+.fh5co-cover .display-tc .btn.btn-rsvp {
+  background: #8B2942 !important;
+  border: 2px solid #8B2942 !important;
+  color: #fff !important;
+  padding: 16px 48px;
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 4px;
+  transition: all 0.25s ease;
+}
+#fh5co-header .display-tc .btn.btn-rsvp:hover,
+#fh5co-header .display-tc .btn.btn-rsvp:focus,
+#fh5co-header .display-tc .btn.btn-rsvp:active,
+.fh5co-cover .display-tc .btn.btn-rsvp:hover,
+.fh5co-cover .display-tc .btn.btn-rsvp:focus,
+.fh5co-cover .display-tc .btn.btn-rsvp:active {
+  background: #6f1f34 !important;
+  border-color: #6f1f34 !important;
+  color: #fff !important;
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=style.css.map */
