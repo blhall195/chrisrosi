@@ -1840,6 +1840,12 @@ form label {
   opacity: 0;
 }
 
+@media screen and (max-width: 768px) {
+  #fh5co-header {
+    background-position: right center !important;
+  }
+}
+
 #fh5co-header .display-tc .btn.btn-rsvp,
 .fh5co-cover .display-tc .btn.btn-rsvp {
   background: #8B2942 !important;
